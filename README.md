@@ -3,8 +3,6 @@ fMRI Class
 
 Final Assignment
 
-For a better viewing experience put this link:
+For a better viewing experience open the html converted file.
 
-https://github.com/danieljwilson/PSY5212/blob/master/Final%20Project.ipynb
-
-in the [nb viewer](https://nbviewer.jupyter.org/)
+Of course best of all is to view in an iPyhon Notebook, then you can run the code interactively.
