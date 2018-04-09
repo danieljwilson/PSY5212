@@ -1,6 +1,6 @@
 # PSY5212
 
-###fMRI Class: Final Assignment
+### fMRI Class: Final Assignment
 
 Amin Banihashemi, Hause Lin & Daniel J Wilson
 
